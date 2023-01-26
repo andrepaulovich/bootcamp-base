@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+tBk5JUCSYMwGYDmM8rJIwvwuMGM0ciyG7ViJxsOT+1kOXkhmNvN+METDstUjqqHFN+P/9YMTkxaIfKcXUN6Kg==",
+  "success": true,
+  "projectFilePath": "D:\\bitbucket\\aspnet-bootcamp\\Tarefas\\src\\Tarefas.DAO\\Tarefas.DAO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre.paulovich\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\andre.paulovich\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.113.2\\stub.system.data.sqlite.core.netstandard.1.0.113.2.nupkg.sha512",
+    "C:\\Users\\andre.paulovich\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.7\\system.data.sqlite.core.1.0.113.7.nupkg.sha512"
+  ],
+  "logs": []
+}

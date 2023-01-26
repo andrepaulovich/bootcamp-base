@@ -1,0 +1,12 @@
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\bin\Debug\net7.0\Tarefas.DTO.deps.json
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\bin\Debug\net7.0\Tarefas.DTO.dll
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\bin\Debug\net7.0\Tarefas.DTO.pdb
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.csproj.AssemblyReference.cache
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.AssemblyInfoInputs.cache
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.AssemblyInfo.cs
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.csproj.CoreCompileInputs.cache
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.dll
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\refint\Tarefas.DTO.dll
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\Tarefas.DTO.pdb
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DTO\obj\Debug\net7.0\ref\Tarefas.DTO.dll

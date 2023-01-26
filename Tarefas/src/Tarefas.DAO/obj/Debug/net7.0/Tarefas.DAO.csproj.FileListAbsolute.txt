@@ -1,0 +1,15 @@
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.csproj.AssemblyReference.cache
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.AssemblyInfoInputs.cache
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.AssemblyInfo.cs
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.csproj.CoreCompileInputs.cache
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\bin\Debug\net7.0\Tarefas.DAO.deps.json
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\bin\Debug\net7.0\Tarefas.DAO.dll
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\bin\Debug\net7.0\Tarefas.DAO.pdb
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\bin\Debug\net7.0\Tarefas.DTO.dll
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\bin\Debug\net7.0\Tarefas.DTO.pdb
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.csproj.CopyComplete
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.dll
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\refint\Tarefas.DAO.dll
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\Tarefas.DAO.pdb
+D:\bitbucket\aspnet-bootcamp\Tarefas\src\Tarefas.DAO\obj\Debug\net7.0\ref\Tarefas.DAO.dll
